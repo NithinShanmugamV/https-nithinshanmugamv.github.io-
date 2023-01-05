@@ -1,2 +1,2 @@
 # PersonalPortfolio
-Link to website: https://nithinshanmugamv.github.io/PersonalPortfolio/index.html
+Link to website: https://nithinshanmugamv.github.io/
